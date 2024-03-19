@@ -32,7 +32,7 @@ The repository showcases my experience in blockchain security, focusing on smart
 ## Blogs
 | Title | Date |
 |-------|------|
-| [Openzeppelin Ethernaut CTF 2024 — Alien Spaceship Writeup](https://x.com/m3rlinbx0/status/1742940872562590079?s=20](https://link.medium.com/OVLyVYzB5Hb ) | March 2024 |
+| [Openzeppelin Ethernaut CTF 2024 — Alien Spaceship Writeup](https://link.medium.com/OVLyVYzB5Hb ) | March 2024 |
 | [Solidity Notes - Try / Catch](https://x.com/m3rlinbx0/status/1742940872562590079?s=20) | February 2024 |
 | [Something Behind the — SELFDESTRUCT —](https://filmptz.medium.com/something-behind-the-selfdestruct-6ec46e007440) | January 2024 |
 | [Upgradeable Notes - Disable initializer](https://x.com/m3rlinbx0/status/1742940872562590079?s=20) | January 2024 |
