@@ -26,6 +26,7 @@ The repository showcases my experience in blockchain security, focusing on smart
 | Competition | Placed | Flag Captured | @ | Date | Provider |
 |:--:|:--:| ---- | -------- |:--:|:--:|
 | [Ethernaut CTF 2024](https://ctf.openzeppelin.com/) | 46th | [3rd-start.exe](https://ctf.openzeppelin.com/challenges#start.exe-6), [35th-Dutch](https://ctf.openzeppelin.com/challenges#Dutch-5), [15th-Alien Spaceship](https://ctf.openzeppelin.com/challenges#Alien%20Spaceship-2) | Individual | March 2024 | [OpenZeppelin](https://www.openzeppelin.com/) |
+| [CTF_challenge_February 2024](https://github.com/AuditOneCTFs/CTF_challenge_Feb2024) | 2nd | [RollsRoyce](https://github.com/AuditOneCTFs/CTF_challenge_Feb2024/blob/main/RollsRoyce.sol) | Individual | February 2024 | [AuditOne](https://www.auditone.io/) |
 
 ---
 
