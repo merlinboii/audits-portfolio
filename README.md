@@ -5,16 +5,18 @@ The repository showcases my experience in blockchain security, focusing on smart
 
 | Report                              | Date | Team   |
 | ----------------------------------- | --   | ----   |
-| [Warden Finance - Wondrous-X](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-WardenFinance-Wondrous-X-v1.0.pdf)| September 2022 | [Valix](https://github.com/valixconsulting) |
-| [Aniverse - ANIV721Land](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-Aniverse-ANIV721Land-v1.0.pdf)| September 2022 | [Valix](https://github.com/valixconsulting) |
-| [Vega Investment Group Limited - CrownToken](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-VegaInvestmentGroupLimited-CrownToken-v1.0.pdf)| November 2022 | [Valix](https://github.com/valixconsulting) |
-| [Vega Investment Group Limited - CrownToken and VucaStaking](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-VegaInvestmentGroupLimited-CrownToken-and-VucaStaking-v1.0.pdf)| December 2022 | [Valix](https://github.com/valixconsulting) |
-| [Xtatuz DMCC - XTATUZ asset tokenization](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-XtatuzDMCC-XTATUZ-Asset-Tokenization-v1.0.pdf)| March 2023 | [Valix](https://github.com/valixconsulting) |
-| [Code Sekai - NFT Minting & Transferring In-game/Out-game](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-CodeSekai-NFT-Minting-and-Transferring-In-game-Out-game-v1.1.pdf)| April 2023 | [Valix](https://github.com/valixconsulting) |
-| [NFTGT Co., Ltd. - NFTGT Factory and Contract](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-CodeSekai-NFT-Minting-and-Transferring-In-game-Out-game-v1.1.pdf)| April 2023 | [Valix](https://github.com/valixconsulting) |
 | [BIG BANG THEORY - Smart Contract (Token & NFT)](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-TheBigbangTheory-Final-v1.0.pdf)| September 2023 | [Valix](https://github.com/valixconsulting) |
+| [NFTGT Co., Ltd. - NFTGT Factory and Contract](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-CodeSekai-NFT-Minting-and-Transferring-In-game-Out-game-v1.1.pdf)| April 2023 | [Valix](https://github.com/valixconsulting) |
+| [Code Sekai - NFT Minting & Transferring In-game/Out-game](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-CodeSekai-NFT-Minting-and-Transferring-In-game-Out-game-v1.1.pdf)| April 2023 | [Valix](https://github.com/valixconsulting) |
+| [Xtatuz DMCC - XTATUZ asset tokenization](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-XtatuzDMCC-XTATUZ-Asset-Tokenization-v1.0.pdf)| March 2023 | [Valix](https://github.com/valixconsulting) |
+| [Vega Investment Group Limited - CrownToken and VucaStaking](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-VegaInvestmentGroupLimited-CrownToken-and-VucaStaking-v1.0.pdf)| December 2022 | [Valix](https://github.com/valixconsulting) |
+| [Vega Investment Group Limited - CrownToken](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-VegaInvestmentGroupLimited-CrownToken-v1.0.pdf)| November 2022 | [Valix](https://github.com/valixconsulting) |
+| [Aniverse - ANIV721Land](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-Aniverse-ANIV721Land-v1.0.pdf)| September 2022 | [Valix](https://github.com/valixconsulting) |
+| [Warden Finance - Wondrous-X](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-WardenFinance-Wondrous-X-v1.0.pdf)| September 2022 | [Valix](https://github.com/valixconsulting) |
 
-## Contests 
+---
+
+## Bug Bounty Contests
 
 | Contest | Findings | Language | Date | Platform | Report |
 |:--:|:--:| ---- | -------- |:--:|:--:|
