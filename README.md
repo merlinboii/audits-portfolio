@@ -18,12 +18,12 @@ The repository showcases my experience in blockchain security, focusing on smart
 
 ## Bug Bounty Contests
 
-| Contest | Awards | Findings | Language | Date | Platform | Report |
-|:--:|:--:|:--:| ---- | -------- |:--:|:--:|
-| [Jala Swap](https://audits.sherlock.xyz/contests/233) | 3rd 🥉 | 1M | Solidity | Mar 2024 | Sherlock | [📑](https://audits.sherlock.xyz/contests/233/report) |
-| [UniStaker Infrastructure](https://code4rena.com/audits/2024-02-unistaker-infrastructure) | Group of 5th | Grade-B QA Report | Solidity | Feb 2024 | Code4Rena | _Reporting_ |
-| [AI Arena](https://code4rena.com/audits/2024-02-ai-arena) | 17th | 4H, 4M, Grade-B QA Report, Grade-B Gas Report | Solidity | Feb 2024 | Code4Rena | _Reporting_|
-| [Curves](https://code4rena.com/audits/2024-01-curves) | 68th | 1H, 2M, Grade-A QA Report | Solidity | Jan 2024 | Code4Rena | _Reporting_ |
+| Contest | Awards | Findings | Language | Date | @ |Platform | Report |
+|:--:|:--:|:--:| ---- | -------- |:--:|:--:|:--:|
+| [Jala Swap](https://audits.sherlock.xyz/contests/233) | 3rd 🥉 | 1M | Solidity | Mar 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/233/report) |
+| [UniStaker Infrastructure](https://code4rena.com/audits/2024-02-unistaker-infrastructure) | Group of 5th | Grade-B QA Report | Solidity | Feb 2024 | Individual | Code4Rena | _Reporting_ |
+| [AI Arena](https://code4rena.com/audits/2024-02-ai-arena) | 17th | 4H, 4M, Grade-B QA Report, Grade-B Gas Report | Solidity | Feb 2024 | Individual | Code4Rena | _Reporting_|
+| [Curves](https://code4rena.com/audits/2024-01-curves) | 68th | 1H, 2M, Grade-A QA Report | Solidity | Jan 2024 | Individual | Code4Rena | _Reporting_ |
 
 ---
 
