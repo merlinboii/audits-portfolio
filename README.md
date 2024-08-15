@@ -20,7 +20,7 @@ The repository showcases my experience in blockchain security, focusing on smart
 
 | Contest | Awards | Findings | Language | Date | @ |Platform | Report |
 |:--:|:--:|:--:| ---- | -------- |:--:|:--:|:--:|
-| [Munchables: LandManager](https://code4rena.com/audits/2024-05-munchables) | 1st 🥇 | 5H, 1M (1 selected for report) | Solidity | July 2024 | Individual | Code4Rena | _Reporting_ |
+| [Munchables: LandManager](https://code4rena.com/audits/2024-07-munchables) | 1st 🥇 | 5H, 1M (1 selected for report) | Solidity | July 2024 | Individual | Code4Rena | _Reporting_ |
 | [Munchables: LockManager](https://code4rena.com/audits/2024-05-munchables) | 8th | 2H, 2M (1 selected for report) | Solidity | May 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-05-munchables) |
 | [Jala Swap](https://audits.sherlock.xyz/contests/233) | 3rd 🥉 | 1M | Solidity | Mar 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/233/report) |
 | [UniStaker Infrastructure](https://code4rena.com/audits/2024-02-unistaker-infrastructure) | Group of 5th | Grade-B QA Report | Solidity | Feb 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-02-uniswap-foundation) |
