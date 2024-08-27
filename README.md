@@ -1,6 +1,10 @@
 # Portfolio
 The repository showcases my experience in blockchain security, focusing on smart contract security audits, bug bounty contests, and Capture The Flag (CTF) events. Additionally, it features summary articles I've authored on smart contract security
 
+## Profile
+* [Code4Rena (merlinboii)](https://code4rena.com/@merlinboii) 
+* [Sherlock (merlinboii)](https://audits.sherlock.xyz/watson/merlinboii)
+
 ## Team Audit
 
 | Report                              | Date | Team   |
