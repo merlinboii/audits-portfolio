@@ -24,6 +24,7 @@ The repository showcases my experience in blockchain security, focusing on smart
 
 | Contest | Awards | Findings | Language | Date | @ |Platform | Report |
 |:--:|:--:|:--:| ---- | -------- |:--:|:--:|:--:|
+| [Midas - Instant Minter/Redeemer](https://audits.sherlock.xyz/contests/495) | 8th | 1M | Solidity | Aug 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/495?filter=results) |
 | [Munchables: LandManager](https://code4rena.com/audits/2024-07-munchables) | 1st 🥇 | 5H, 1M (1 selected for report) (cover ALL valid H/M) | Solidity | July 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-07-munchables) |
 | [Munchables: LockManager](https://code4rena.com/audits/2024-05-munchables) | 8th | 2H, 2M (1 selected for report) | Solidity | May 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-05-munchables) |
 | [Jala Swap](https://audits.sherlock.xyz/contests/233) | 3rd 🥉 | 1M | Solidity | Mar 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/233/report) |
