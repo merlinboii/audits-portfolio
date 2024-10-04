@@ -9,6 +9,8 @@ The repository showcases my experience in blockchain security, focusing on smart
 
 | Report                              | Date | Team   |
 | ----------------------------------- | --   | ----   |
+| [(Private) FWX - DeFi Perpeptual Futures](https://fwx.finance/)| September 2024 | [Valix](https://github.com/valixconsulting) |
+| [(Private) FWX - Permissionless Future Trading](https://fwx.finance/)| March 2024 | [Valix](https://github.com/valixconsulting) |
 | [BIG BANG THEORY - Smart Contract (Token & NFT)](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-TheBigbangTheory-Final-v1.0.pdf)| September 2023 | [Valix](https://github.com/valixconsulting) |
 | [NFTGT Co., Ltd. - NFTGT Factory and Contract](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-CodeSekai-NFT-Minting-and-Transferring-In-game-Out-game-v1.1.pdf)| April 2023 | [Valix](https://github.com/valixconsulting) |
 | [Code Sekai - NFT Minting & Transferring In-game/Out-game](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-CodeSekai-NFT-Minting-and-Transferring-In-game-Out-game-v1.1.pdf)| April 2023 | [Valix](https://github.com/valixconsulting) |
@@ -22,15 +24,16 @@ The repository showcases my experience in blockchain security, focusing on smart
 
 ## Bug Bounty Contests
 
-| Contest | Awards | Findings | Language | Date | @ |Platform | Report |
-|:--:|:--:|:--:| ---- | -------- |:--:|:--:|:--:|
-| [Midas - Instant Minter/Redeemer](https://audits.sherlock.xyz/contests/495) | 8th | 1M | Solidity | Aug 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/495?filter=results) |
-| [Munchables: LandManager](https://code4rena.com/audits/2024-07-munchables) | 1st 🥇 | 5H, 1M (1 selected for report) (cover ALL valid H/M) | Solidity | July 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-07-munchables) |
-| [Munchables: LockManager](https://code4rena.com/audits/2024-05-munchables) | 8th | 2H, 2M (1 selected for report) | Solidity | May 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-05-munchables) |
-| [Jala Swap](https://audits.sherlock.xyz/contests/233) | 3rd 🥉 | 1M | Solidity | Mar 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/233/report) |
-| [UniStaker Infrastructure](https://code4rena.com/audits/2024-02-unistaker-infrastructure) | Group of 5th | Grade-B QA Report | Solidity | Feb 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-02-uniswap-foundation) |
-| [AI Arena](https://code4rena.com/audits/2024-02-ai-arena) | 17th | 4H, 4M, Grade-B QA Report, Grade-B Gas Report | Solidity | Feb 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-02-ai-arena)|
-| [Curves](https://code4rena.com/audits/2024-01-curves) | 68th | 1H, 2M, Grade-A QA Report | Solidity | Jan 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-01-curves) |
+| Contest | Type | Awards | Findings | Language | Date | @ |Platform | Report |
+|:--:|:--:|:--:|:--:| ---- | -------- |:--:|:--:|:--:|
+| [Midas - Instant Minter/Redeemer](https://audits.sherlock.xyz/contests/495) | RWA | 8th | 1M | Solidity | Aug 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/495?filter=results) |
+| [Munchables: LandManager](https://code4rena.com/audits/2024-07-munchables) | GameFi, Staking, Farming | 1st 🥇 | 5H, 1M (1 selected for report) (cover ALL valid H/M) | Solidity | July 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-07-munchables) |
+| [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy) | Account Abstraction, Modular Smart Accounts| 27th | 1L (selected for report) | Solidity | July 2024 | Individual | CodeHawks | [📑](https://codehawks.cyfrin.io/c/2024-07-biconomy/results?lt=contest&sc=reward&sj=reward&page=1&t=report) |
+| [Munchables: LockManager](https://code4rena.com/audits/2024-05-munchables) | GameFi, Staking, Farming | 8th | 2H, 2M (1 selected for report) | Solidity | May 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-05-munchables) |
+| [Jala Swap](https://audits.sherlock.xyz/contests/233) | AMM | 3rd 🥉 | 1M | Solidity | Mar 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/233/report) |
+| [UniStaker Infrastructure](https://code4rena.com/audits/2024-02-unistaker-infrastructure) | Governance | Group of 5th | Grade-B QA Report | Solidity | Feb 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-02-uniswap-foundation) |
+| [AI Arena](https://code4rena.com/audits/2024-02-ai-arena) | GameFi | 17th | 4H, 4M, Grade-B QA Report, Grade-B Gas Report | Solidity | Feb 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-02-ai-arena)|
+| [Curves](https://code4rena.com/audits/2024-01-curves) | SocialFi | 68th | 1H, 2M, Grade-A QA Report | Solidity | Jan 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-01-curves) |
 
 ---
 
