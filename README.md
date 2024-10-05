@@ -26,6 +26,7 @@ The repository showcases my experience in blockchain security, focusing on smart
 
 | Contest | Type | Awards | Findings | Language | Date | @ |Platform | Report |
 |:--:|:--:|:--:|:--:| ---- | -------- |:--:|:--:|:--:|
+| [Flayer - NFT Liquidity Protocol](https://audits.sherlock.xyz/contests/468) | NFT Liquidity Protocol, Uniswap v4 Hooks | _TBD_ | _TBD_ | Solidity | July 2024 | Individual | Sherlock | _TBD_ |
 | [Midas - Instant Minter/Redeemer](https://audits.sherlock.xyz/contests/495) | RWA | 8th | 1M | Solidity | Aug 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/495?filter=results) |
 | [Munchables: LandManager](https://code4rena.com/audits/2024-07-munchables) | GameFi, Staking, Farming | 1st 🥇 | 5H, 1M (1 selected for report) (cover ALL valid H/M) | Solidity | July 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-07-munchables) |
 | [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy) | Account Abstraction, Modular Smart Accounts| 27th | 1L (selected for report) | Solidity | July 2024 | Individual | CodeHawks | [📑](https://codehawks.cyfrin.io/c/2024-07-biconomy/results?lt=contest&sc=reward&sj=reward&page=1&t=report) |
