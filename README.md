@@ -10,7 +10,11 @@ The repository showcases my experience in blockchain security, focusing on smart
 
 | Report                              | Date | Team   |
 | ----------------------------------- | --   | ----   |
+| [(Private) FWX - Future Trading](https://fwx.finance/)| October 2024 | [Valix](https://github.com/valixconsulting) |
+| [(Private) FWX - Permissionless Future Trading](https://fwx.finance/)| October 2024 | [Valix](https://github.com/valixconsulting) |
 | [(Private) FWX - DeFi Perpeptual Futures](https://fwx.finance/)| September 2024 | [Valix](https://github.com/valixconsulting) |
+| [(Private) REAME - Token & NFT Smart Contract](https://reame.io/)| April 2024 | [Valix](https://github.com/valixconsulting) |
+| [(Private) Starlet - Music NFT Smart Contract](https://www.starlet.world/)| April 2024 | [Valix](https://github.com/valixconsulting) |
 | [(Private) FWX - Permissionless Future Trading](https://fwx.finance/)| March 2024 | [Valix](https://github.com/valixconsulting) |
 | [BIG BANG THEORY - Smart Contract (Token & NFT)](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-TheBigbangTheory-Final-v1.0.pdf)| September 2023 | [Valix](https://github.com/valixconsulting) |
 | [NFTGT Co., Ltd. - NFTGT Factory and Contract](https://github.com/valixconsulting/audit-reports/blob/main/ValixConsulting-Audit-Report-CodeSekai-NFT-Minting-and-Transferring-In-game-Out-game-v1.1.pdf)| April 2023 | [Valix](https://github.com/valixconsulting) |
