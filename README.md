@@ -54,8 +54,8 @@ The repository showcases my experience in blockchain security, focusing on smart
 ## Blogs
 | Title | Date |
 |-------|------|
+| [Deployment to Defense Security Strategies for Blockchain Protocols](https://medium.com/valixconsulting/deployment-to-defense-security-strategies-for-blockchain-protocols-8c4c714365a7) | October 2024 |
 | [Openzeppelin Ethernaut CTF 2024 — Alien Spaceship Writeup](https://link.medium.com/OVLyVYzB5Hb ) | March 2024 |
-| [Solidity Notes - Try / Catch](https://x.com/m3rlinbx0/status/1742940872562590079?s=20) | February 2024 |
 | [Something Behind the — SELFDESTRUCT —](https://filmptz.medium.com/something-behind-the-selfdestruct-6ec46e007440) | January 2024 |
 | [Upgradeable Notes - Disable initializer](https://x.com/m3rlinbx0/status/1742940872562590079?s=20) | January 2024 |
 | [Breakdown of Rollups — Layer 2 Scaling Solution](https://medium.com/valixconsulting/breakdown-of-rollups-layer-2-scaling-solution-afe73ebb0bec) | November 2023 |
