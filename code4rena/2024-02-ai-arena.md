@@ -1339,8 +1339,8 @@ File: Neuron.sol
 | [L-02](#l-02) | The `Neuron::burnFrom()` does not support infinite approval | 🫑 |
 | [L-03](#l-03) | Lack of setter functions for crucial external Addresses | 🫑 |
 | [L-06](#l-04) | Lack of customized replenishment times for game items | 🫑 |
-| [N-01](#n-01) | Recommend explicitly setting the `GameItems::itemsRemaining` when the supply is not finite | 🫐 |
-| [N-02](#n-02) | Enhance consistency in the `GameItems::remainingSupply()` when querying items of non-finite supply | 🫐 |
+| [I-01](#i-01) | Recommend explicitly setting the `GameItems::itemsRemaining` when the supply is not finite | 🫐 |
+| [I-02](#i-02) | Enhance consistency in the `GameItems::remainingSupply()` when querying items of non-finite supply | 🫐 |
 
 \* Source: [AI-Arena: QA Report](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1100)
 
@@ -1574,7 +1574,7 @@ File: GameItems.sol
 
 ---
 
-### **[N-01] Recommend explicitly setting the `GameItems::itemsRemaining` when the supply is not finite** <a name="n-01"></a>
+### **[I-01] Recommend explicitly setting the `GameItems::itemsRemaining` when the supply is not finite** <a name="i-01"></a>
 
 The [GameItems::createGameItem()](https://github.com/code-423n4/2024-02-ai-arena/blob/main/src/GameItems.sol#L208-L235) could enhancing the explicit setup of  `itemsRemaining` when creating non-finite supply items.
 
@@ -1651,7 +1651,7 @@ File: GameItems.sol
 
 ---
 
-### **[N-02] Enhance consistency in the `GameItems::remainingSupply()` when querying items of non-finite supply**<a name="n-02"></a>
+### **[I-02] Enhance consistency in the `GameItems::remainingSupply()` when querying items of non-finite supply**<a name="i-02"></a>
 
 The [GameItems::remainingSupply()](https://github.com/code-423n4/2024-02-ai-arena/blob/main/src/GameItems.sol#L279-L281) could be improved to provide clearer support for querying the supply of each item by returning the `finiteSupply` status along with the supply value.
 
