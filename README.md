@@ -5,6 +5,7 @@ The repository showcases my experience in blockchain security, focusing on smart
 * [LinkedIn](www.linkedin.com/in/filmptz)
 * [Code4Rena (merlinboii)](https://code4rena.com/@merlinboii) 
 * [Sherlock (merlinboii)](https://audits.sherlock.xyz/watson/merlinboii)
+* [Immunefi (merlinboii)](https://immunefi.com/profile/merlinboii/)
 
 ## Team Audit
 
