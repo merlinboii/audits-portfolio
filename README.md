@@ -3,7 +3,7 @@ The repository showcases my experience in blockchain security, focusing on smart
 
 ## Profile
 * [LinkedIn](www.linkedin.com/in/filmptz)
-* [Code4Rena (merlinboii)](https://code4rena.com/@merlinboii) 
+* [Code4rena (merlinboii)](https://Code4rena.com/@merlinboii) 
 * [Sherlock (merlinboii)](https://audits.sherlock.xyz/watson/merlinboii)
 * [Immunefi (merlinboii)](https://immunefi.com/profile/merlinboii/)
 
@@ -34,13 +34,13 @@ The repository showcases my experience in blockchain security, focusing on smart
 |:--:|:--:|:--:|:--:| ---- | -------- |:--:|:--:|:--:|:--:|
 | [Flayer - NFT Liquidity Protocol](https://audits.sherlock.xyz/contests/468) | NFT Liquidity Protocol, Uniswap v4 Hooks | _TBD_ | _TBD_ | Solidity | July 2024 | Individual | Sherlock | _TBD_ | _TBD_ |
 | [Midas - Instant Minter/Redeemer](https://audits.sherlock.xyz/contests/495) | RWA | 8th | 1M | Solidity | Aug 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/495?filter=results) |[💾](./sherlock/2024-08-midas-minter-redeemer.md)|
-| [Munchables: LandManager](https://code4rena.com/audits/2024-07-munchables) | GameFi, Staking, Farming | 1st 🥇 | 5H, 1M (1 selected for report) (cover ALL valid H/M) | Solidity | July 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-07-munchables) |[💾](./code4rena/2024-07-munchables.md)|
+| [Munchables: LandManager](https://Code4rena.com/audits/2024-07-munchables) | GameFi, Staking, Farming | 1st 🥇 | 5H, 1M (1 selected for report) (cover ALL valid H/M) | Solidity | July 2024 | Individual | Code4rena | [📑](https://Code4rena.com/reports/2024-07-munchables) |[💾](./Code4rena/2024-07-munchables.md)|
 | [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy) | Account Abstraction, Modular Smart Accounts| 27th | 1L (selected for report) | Solidity | July 2024 | Individual | CodeHawks | [📑](https://codehawks.cyfrin.io/c/2024-07-biconomy/results?lt=contest&sc=reward&sj=reward&page=1&t=report) | [💾](./codeHawks/2024-07-biconomy.md) |
-| [Munchables: LockManager](https://code4rena.com/audits/2024-05-munchables) | GameFi, Staking, Farming | 8th | 2H, 2M (1 selected for report) | Solidity | May 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-05-munchables) | [💾](./code4rena/2024-05-munchables.md) |
+| [Munchables: LockManager](https://Code4rena.com/audits/2024-05-munchables) | GameFi, Staking, Farming | 8th | 2H, 2M (1 selected for report) | Solidity | May 2024 | Individual | Code4rena | [📑](https://Code4rena.com/reports/2024-05-munchables) | [💾](./Code4rena/2024-05-munchables.md) |
 | [Jala Swap](https://audits.sherlock.xyz/contests/233) | AMM | 3rd 🥉 | 1M | Solidity | Mar 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/233/report) | [💾](./sherlock/2024-02-jala-swap.md) |
-| [UniStaker Infrastructure](https://code4rena.com/audits/2024-02-unistaker-infrastructure) | Governance | Group of 5th | Grade-B QA Report | Solidity | Feb 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-02-uniswap-foundation) | [💾](./code4rena/2024-02-uniswap-foundation.md) |
-| [AI Arena](https://code4rena.com/audits/2024-02-ai-arena) | GameFi | 17th | 4H, 4M, Grade-B QA Report, Grade-B Gas Report | Solidity | Feb 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-02-ai-arena)| [💾](./code4rena/2024-02-ai-arena.md) |
-| [Curves](https://code4rena.com/audits/2024-01-curves) | SocialFi | 68th | 1H, 2M, Grade-A QA Report | Solidity | Jan 2024 | Individual | Code4Rena | [📑](https://code4rena.com/reports/2024-01-curves) | [💾](./code4rena/2024-01-curves.md) |
+| [UniStaker Infrastructure](https://Code4rena.com/audits/2024-02-unistaker-infrastructure) | Governance | Group of 5th | Grade-B QA Report | Solidity | Feb 2024 | Individual | Code4rena | [📑](https://Code4rena.com/reports/2024-02-uniswap-foundation) | [💾](./Code4rena/2024-02-uniswap-foundation.md) |
+| [AI Arena](https://Code4rena.com/audits/2024-02-ai-arena) | GameFi | 17th | 4H, 4M, Grade-B QA Report, Grade-B Gas Report | Solidity | Feb 2024 | Individual | Code4rena | [📑](https://Code4rena.com/reports/2024-02-ai-arena)| [💾](./Code4rena/2024-02-ai-arena.md) |
+| [Curves](https://Code4rena.com/audits/2024-01-curves) | SocialFi | 68th | 1H, 2M, Grade-A QA Report | Solidity | Jan 2024 | Individual | Code4rena | [📑](https://Code4rena.com/reports/2024-01-curves) | [💾](./Code4rena/2024-01-curves.md) |
 
 ---
 
