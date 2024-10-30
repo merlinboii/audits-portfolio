@@ -7,7 +7,35 @@ The repository showcases my experience in blockchain security, focusing on smart
 * [Sherlock (merlinboii)](https://audits.sherlock.xyz/watson/merlinboii)
 * [Immunefi (merlinboii)](https://immunefi.com/profile/merlinboii/)
 
-## Team Audit
+## Highlights
+
+💡 **Liquidity provider loses Liquidity during collection initialization**
+> The first liquidity provider loses ownership of their position during initialization because ƒlayer's uniswap hook becomes the position owner instead of the user.
+>
+> 🔗 [2024-08-ƒlayer-issues-#737](https://github.com/sherlock-audit/2024-08-flayer-judging/issues/737)
+---
+💡 **Incorrect use of `1000` for converting basis points to decimals in `compoundedFactor_` calculation**
+> The incorrect use of `1000` instead of `10000` for converting basis points to decimals leads to incorrect interest calculations.
+>
+> 🔗 [2024-08-ƒlayer-issues-#736](https://github.com/sherlock-audit/2024-08-flayer-judging/issues/736)
+---
+💡 **The attacker will prevent eligible users from claiming the liquidated balance**
+> The combination of flawed logic allows an attacker to prevent eligible users from claiming their liquidated balance after external liquidation.
+>
+> 🔗 [2024-08-ƒlayer-issues-#742](https://github.com/sherlock-audit/2024-08-flayer-judging/issues/742)
+---
+💡 **Incorrect timestamp updating for invalid plots due to USD price fluctuation**
+> Outdated plotMetadata.timestamp from varying configurations and external dependencies can lead to unfair rewards and potential DoS.
+>
+> 🔗 [2024-07-munchables-issues-#37](https://github.com/code-423n4/2024-07-munchables-findings/issues/37)
+---
+💡 **Users can farm on zero-tax land if the landlord locked tokens before the LandManager deployment**
+> Oversight in contract validation allows users to stake with a 0% tax rate and farm schnibbles without paying tax.
+>
+> 🔗 [2024-07-munchables-issues-#30](https://github.com/code-423n4/2024-07-munchables-findings/issues/30)
+---
+
+## Team Audits
 
 | Report                              | Date | Team   |
 | ----------------------------------- | --   | ----   |
