@@ -12,17 +12,17 @@ The repository showcases my experience in blockchain security, focusing on smart
 💡 **Liquidity provider loses Liquidity during collection initialization**
 > The first liquidity provider loses ownership of their position during initialization because ƒlayer's uniswap hook becomes the position owner instead of the user.
 >
-> 🔗 [2024-09-ƒlayer-issues-#737](https://github.com/sherlock-audit/2024-08-flayer-judging/issues/737)
+> 🔗 [2024-08-ƒlayer-issues-#737](https://github.com/sherlock-audit/2024-08-flayer-judging/issues/737)
 ---
 💡 **Incorrect use of `1000` for converting basis points to decimals in `compoundedFactor_` calculation**
 > The incorrect use of `1000` instead of `10000` for converting basis points to decimals leads to incorrect interest calculations.
 >
-> 🔗 [2024-09-ƒlayer-issues-#736](https://github.com/sherlock-audit/2024-08-flayer-judging/issues/736)
+> 🔗 [2024-08-ƒlayer-issues-#736](https://github.com/sherlock-audit/2024-08-flayer-judging/issues/736)
 ---
 💡 **The attacker will prevent eligible users from claiming the liquidated balance**
 > The combination of flawed logic allows an attacker to prevent eligible users from claiming their liquidated balance after external liquidation.
 >
-> 🔗 [2024-09-ƒlayer-issues-#742](https://github.com/sherlock-audit/2024-08-flayer-judging/issues/742)
+> 🔗 [2024-08-ƒlayer-issues-#742](https://github.com/sherlock-audit/2024-08-flayer-judging/issues/742)
 ---
 💡 **Incorrect timestamp updating for invalid plots due to USD price fluctuation**
 > Outdated plotMetadata.timestamp from varying configurations and external dependencies can lead to unfair rewards and potential DoS.
@@ -60,7 +60,7 @@ The repository showcases my experience in blockchain security, focusing on smart
 
 | Contest | Type | Awards | Findings | Language | Date | @ |Platform | Contest Report | My Report |
 |:--:|:--:|:--:|:--:| ---- | -------- |:--:|:--:|:--:|:--:|
-| [Flayer - NFT Liquidity Protocol](https://audits.sherlock.xyz/contests/468) | NFT Liquidity Protocol, Uniswap v4 Hooks | 28th | 8H, 2M | Solidity | Sep 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/468/report) | [💾](./sherlock/2024-08-flayer.md) |
+| [Flayer - NFT Liquidity Protocol](https://audits.sherlock.xyz/contests/468) | NFT Liquidity Protocol, Uniswap v4 Hooks | 28th | 8H, 2M | Solidity | July 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/468/report) | [💾](./sherlock/2024-08-flayer.md) |
 | [Midas - Instant Minter/Redeemer](https://audits.sherlock.xyz/contests/495) | RWA | 8th | 1M | Solidity | Aug 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/495/report) |[💾](./sherlock/2024-08-midas-minter-redeemer.md)|
 | [Munchables: LandManager](https://Code4rena.com/audits/2024-07-munchables) | GameFi, Staking, Farming | 1st 🥇 | 5H, 1M (1 selected for report) (cover ALL valid H/M) | Solidity | July 2024 | Individual | Code4rena | [📑](https://Code4rena.com/reports/2024-07-munchables) |[💾](./code4rena/2024-07-munchables.md)|
 | [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy) | Account Abstraction, Modular Smart Accounts| 27th | 1L (selected for report) | Solidity | July 2024 | Individual | CodeHawks | [📑](https://codehawks.cyfrin.io/c/2024-07-biconomy/results?lt=contest&sc=reward&sj=reward&page=1&t=report) | [💾](./codeHawks/2024-07-biconomy.md) |
