@@ -56,7 +56,7 @@ The repository showcases my experience in blockchain security, focusing on smart
 
 ---
 
-## Bug Bounty Contests
+## Audit Contests
 
 | Contest | Type | Awards | Findings | Language | Date | @ |Platform | Contest Report | My Report |
 |:--:|:--:|:--:|:--:| ---- | -------- |:--:|:--:|:--:|:--:|
