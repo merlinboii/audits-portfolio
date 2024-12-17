@@ -1,5 +1,5 @@
 # Portfolio
-The repository showcases my experience in blockchain security, focusing on smart contract security audits, bug bounty contests, and Capture The Flag (CTF) events. Additionally, it features summary articles I've authored on smart contract security
+The repository showcases my experience in blockchain security, focusing on smart contract security audits, bug bounty contests, and Capture The Flag (CTF) events. Additionally, it features summary articles I've authored on smart contract security.
 
 ## Profile
 * [LinkedIn](https://linkedin.com/in/filmptz)
@@ -8,16 +8,15 @@ The repository showcases my experience in blockchain security, focusing on smart
 * [Immunefi (merlinboii)](https://immunefi.com/profile/merlinboii/)
 
 ## Highlights
-
+💡 **`FluidLocker::_getUnlockingPercentage()` will cause incorrect penalty calculations, impacting all users**
+> The issue occurs because the calculation function's use of **incorrect scaling** and **does not properly convert days to seconds**, results in an incorrect penalty calculation.
+>
+> 🔗 [2024-11-superfluid-locking-contract-#64](https://github.com/sherlock-audit/2024-11-superfluid-locking-contract-judging/issues/64)
+---
 💡 **Liquidity provider loses Liquidity during collection initialization**
 > The first liquidity provider loses ownership of their position during initialization because ƒlayer's uniswap hook becomes the position owner instead of the user.
 >
 > 🔗 [2024-09-ƒlayer-issues-#737](https://github.com/sherlock-audit/2024-08-flayer-judging/issues/737)
----
-💡 **Incorrect use of `1000` for converting basis points to decimals in `compoundedFactor_` calculation**
-> The incorrect use of `1000` instead of `10000` for converting basis points to decimals leads to incorrect interest calculations.
->
-> 🔗 [2024-09-ƒlayer-issues-#736](https://github.com/sherlock-audit/2024-08-flayer-judging/issues/736)
 ---
 💡 **The attacker will prevent eligible users from claiming the liquidated balance**
 > The combination of flawed logic allows an attacker to prevent eligible users from claiming their liquidated balance after external liquidation.
