@@ -1,11 +1,18 @@
 # Portfolio
 The repository showcases my experience in blockchain security, focusing on smart contract security audits, bug bounty contests, and Capture The Flag (CTF) events. Additionally, it features summary articles I've authored on smart contract security.
 
-## Profile
+**Contributions** : Pashov Audit Group, Code4rena, Sherlock Audits, Cantina, CodeHawks, Immunefi, etc.
+
+## Profile & Contact
+
+### Contact
+* [Telegram](https://t.me/merlinboii)
 * [LinkedIn](https://linkedin.com/in/filmptz)
-* [Code4rena (merlinboii)](https://code4rena.com/@merlinboii) 
-* [Sherlock (merlinboii)](https://audits.sherlock.xyz/watson/merlinboii)
-* [Immunefi (merlinboii)](https://immunefi.com/profile/merlinboii/)
+
+### Audit Contest
+* [Code4rena](https://code4rena.com/@merlinboii) 
+* [Sherlock](https://audits.sherlock.xyz/watson/merlinboii)
+* [Immunefi](https://immunefi.com/profile/merlinboii/)
 
 ## Highlights
 💡 **`FluidLocker::_getUnlockingPercentage()` will cause incorrect penalty calculations, impacting all users**
