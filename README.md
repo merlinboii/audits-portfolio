@@ -61,7 +61,7 @@ The repository showcases my experience in blockchain security, focusing on smart
 | [(Private) REAME - Token & NFT Smart Contract](https://reame.io/)| April 2024 |
 | [(Private) Starlet - Music NFT Smart Contract](https://www.starlet.world/)| April 2024 |
 | [(Private) FWX - Permissionless Future Trading](https://fwx.finance/)| March 2024 |
-| [**See more ↗️**](https://github.com/valixconsulting) |  |
+| [**See more ↗️**](https://github.com/valixconsulting/audit-reports) |  |
 
 ---
 
