@@ -41,13 +41,13 @@ The repository showcases my experience in blockchain security, focusing on smart
 > 🔗 [2024-07-munchables-issues-#30](https://github.com/code-423n4/2024-07-munchables-findings/issues/30)
 ---
 
-## Team Audits
+## Private Audits
 
 ### 🧑🏻‍💻 Pashov Audit Group: [🔗](https://www.pashov.net/)
 
-| Project     | Date |
-| ---------------------------------------------------------------- | --   |
-| [Nexus - yield aggregator](https://github.com/pashov/audits/blob/master/team/pdf/Nexus-security-review_2024-11-29.pdf)| November 2024 |
+| Project     | Date | Report | 📂 |
+| ---------------------------------------------------------------- | --   |:--:|:--:|
+| Nexus - Yield Aggregator| November 2024 | [.pdf](https://github.com/pashov/audits/blob/master/team/pdf/Nexus-security-review_2024-11-29.pdf) | [.md](./pashov-audit-group/md/2024-11-Nexus-security-review.md) |
 
 ---
 
@@ -55,12 +55,12 @@ The repository showcases my experience in blockchain security, focusing on smart
 
 | Project                                                          | Date |
 | ---------------------------------------------------------------- | --   |
-| [(Private) FWX - Future Trading](https://fwx.finance/)| October 2024 |
-| [(Private) FWX - Permissionless Future Trading](https://fwx.finance/)| October 2024 |
-| [(Private) FWX - DeFi Perpetual Futures](https://fwx.finance/)| September 2024 |
-| [(Private) REAME - Token & NFT Smart Contract](https://reame.io/)| April 2024 |
-| [(Private) Starlet - Music NFT Smart Contract](https://www.starlet.world/)| April 2024 |
-| [(Private) FWX - Permissionless Future Trading](https://fwx.finance/)| March 2024 |
+| [FWX - Future Trading](https://fwx.finance/)| October 2024 |
+| [FWX - Permissionless Future Trading](https://fwx.finance/)| October 2024 |
+| [FWX - DeFi Perpetual Futures](https://fwx.finance/)| September 2024 |
+| [REAME - Token & NFT Smart Contract](https://reame.io/)| April 2024 |
+| [Starlet - Music NFT Smart Contract](https://www.starlet.world/)| April 2024 |
+| [FWX - Permissionless Future Trading](https://fwx.finance/)| March 2024 |
 | [**See more ↗**](https://github.com/valixconsulting/audit-reports) |  |
 
 ---
