@@ -51,7 +51,7 @@ The repository showcases my experience in blockchain security, focusing on smart
 | 🛡️ - (CDP Stablecoin) | February 2024 | 🕙 | 🕙 |
 | 🛡️ - (GameFi) | February 2024 | 🕙 | 🕙 |
 | 🛡️ - (Deployment Scripts) | February 2024 | 🕙 | 🕙 |
-| 🛡️ - (private) | January 2024 | 🕙 | 🕙 |
+| 🛡️ - (Private) | January 2024 | 🕙 | 🕙 |
 | Dinari - Stablecoin | December 2024 | [.pdf](https://github.com/pashov/audits/blob/master/team/pdf/Dinari-security-review_2024-12-07.pdf) | [.md](./pashov-audit-group/md/2024-12-Dinari-security-review.md) |
 | Ion - Lending| December 2024 | 🕙 | 🕙 |
 | Nexus - Yield Aggregator| November 2024 | [.pdf](https://github.com/pashov/audits/blob/master/team/pdf/Nexus-security-review_2024-11-29.pdf) | [.md](./pashov-audit-group/md/2024-11-Nexus-security-review.md) |
