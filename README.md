@@ -7,7 +7,6 @@ The repository showcases my experience in blockchain security, focusing on smart
 
 ### Contact
 * [Telegram](https://t.me/merlinboii)
-* [LinkedIn](https://linkedin.com/in/filmptz)
 
 ### Audit Contest
 * [Code4rena](https://code4rena.com/@merlinboii) 
