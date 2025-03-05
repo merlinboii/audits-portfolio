@@ -41,12 +41,19 @@ The repository showcases my experience in blockchain security, focusing on smart
 > 🔗 [2024-07-munchables-issues-#30](https://github.com/code-423n4/2024-07-munchables-findings/issues/30)
 ---
 
-## Private Audits
+## Private Audit Engagements
 
 ### 🧑🏻‍💻 Pashov Audit Group: [🔗](https://www.pashov.net/)
+> 🛡️: Undisclosed client | 🕙: Unpublished report
 
 | Project     | Date | Report | 📂 |
 | ---------------------------------------------------------------- | --   |:--:|:--:|
+| 🛡️ - (CDP Stablecoin) | February 2024 | 🕙 | 🕙 |
+| 🛡️ - (GameFi) | February 2024 | 🕙 | 🕙 |
+| 🛡️ - (Deployment Scripts) | February 2024 | 🕙 | 🕙 |
+| 🛡️ - (private) | January 2024 | 🕙 | 🕙 |
+| Dinari - Stablecoin | December 2024 | [.pdf](https://github.com/pashov/audits/blob/master/team/pdf/Dinari-security-review_2024-12-07.pdf) | [.md](./pashov-audit-group/md/2024-12-Dinari-security-review.md) |
+| Ion - Lending| December 2024 | 🕙 | 🕙 |
 | Nexus - Yield Aggregator| November 2024 | [.pdf](https://github.com/pashov/audits/blob/master/team/pdf/Nexus-security-review_2024-11-29.pdf) | [.md](./pashov-audit-group/md/2024-11-Nexus-security-review.md) |
 
 ---
