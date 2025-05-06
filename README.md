@@ -47,6 +47,10 @@ The repository showcases my experience in blockchain security, focusing on smart
 
 | Project     | Date | Report | 📂 |
 | ---------------------------------------------------------------- | --   |:--:|:--:|
+| 🛡️ - (Option) | March-April 2025 | 🕙 | 🕙 |                      
+| 🛡️ - (CDP Stablecoin & Governance) | March 2025 | 🕙 | 🕙 |
+| 🛡️ - (NFT) | March 2025 | 🕙 | 🕙 |
+| 🛡️ - (Yield Aggregator) | March 2025 | 🕙 | 🕙 |
 | 🛡️ - (CDP Stablecoin) | February 2025 | 🕙 | 🕙 |
 | Coinflip - (GameFi) | February 2025 [.pdf](https://github.com/pashov/audits/blob/master/team/pdf/Coinflip-security-review_2025-02-19.pdf) | [.md](./pashov-audit-group/md/2025-02-Coinflip-security-review.md) |
 | HypurrFi - (Lending, Deployment Scripts) | February 2025 | [.pdf](https://github.com/pashov/audits/blob/master/team/pdf/HypurrFi-security-review_2025-02-12.pdf) | [.md](./pashov-audit-group/md/2025-02-HypurrFi-security-review.md) |
