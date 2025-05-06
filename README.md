@@ -48,7 +48,7 @@ The repository showcases my experience in blockchain security, focusing on smart
 | Project     | Date | Report | 📂 |
 | ---------------------------------------------------------------- | --   |:--:|:--:|
 | 🛡️ - (CDP Stablecoin) | February 2025 | 🕙 | 🕙 |
-| 🛡️ - (GameFi) | February 2025 | 🕙 | 🕙 |
+| Coinflip - (GameFi) | February 2025 [.pdf](https://github.com/pashov/audits/blob/master/team/pdf/Coinflip-security-review_2025-02-19.pdf) | [.md](./pashov-audit-group/md/2025-02-Coinflip-security-review.md) |
 | HypurrFi - (Lending, Deployment Scripts) | February 2025 | [.pdf](https://github.com/pashov/audits/blob/master/team/pdf/HypurrFi-security-review_2025-02-12.pdf) | [.md](./pashov-audit-group/md/2025-02-HypurrFi-security-review.md) |
 | 🛡️ - (Private) | January 2025 | 🕙 | 🕙 |
 | Dinari - Stablecoin | December 2024 | [.pdf](https://github.com/pashov/audits/blob/master/team/pdf/Dinari-security-review_2024-12-07.pdf) | [.md](./pashov-audit-group/md/2024-12-Dinari-security-review.md) |
