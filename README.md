@@ -79,6 +79,7 @@ The repository showcases my experience in blockchain security, focusing on smart
 
 | Contest | Type | Awards | Findings | Language | Date | @ |Platform | Contest Report | My Report |
 |:--:|:--:|:--:|:--:| ---- | -------- |:--:|:--:|:--:|:--:|
+| [Yeet - Gamified DeFi](https://immunefi.com/audit-competition/audit-comp-yeet/information) | GameFi & Tokenomic | 1st 🥇 | 1C, 2H (chiefs), 2L, 1I | Solidity | Mar 2025 | Individual | Immunefi | [📑](https://reports.immunefi.com/yeet) | [💾](./immunefi/2025-03-yeet.md) |
 | [Superfluid Locker System](https://audits.sherlock.xyz/contests/648) | User's Locker of Money streaming protocol | 3rd 🥉 | 2H (reported in one) | Solidity | Nov 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/648/report) | [💾](./sherlock/2024-11-superfluid-locking-contract.md) |
 | [vVv Launchpad - Investments & Token distribution](https://audits.sherlock.xyz/contests/647) | Investments & Token distribution | 1st 🥇 | 1H | Solidity | Nov 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/647/report) | [💾](./sherlock/2024-11-vvv-exchange-update.md) |
 | [Flayer - NFT Liquidity Protocol](https://audits.sherlock.xyz/contests/468) | NFT Liquidity Protocol, Uniswap v4 Hooks | 28th | 8H, 2M | Solidity | Sep 2024 | Individual | Sherlock | [📑](https://audits.sherlock.xyz/contests/468/report) | [💾](./sherlock/2024-09-flayer.md) |
